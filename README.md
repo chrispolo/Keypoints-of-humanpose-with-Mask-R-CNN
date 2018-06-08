@@ -86,4 +86,6 @@ See examples in  `samples/shapes/train_shapes.ipynb`,  `samples/coco/coco.py`,  
 ![humanestimtion](https://github.com/chrispolo/Keypoints-of-humanpose-with-Mask-R-CNN/blob/master/results/video1.png)
 ![humanestimation2](https://github.com/chrispolo/Keypoints-of-humanpose-with-Mask-R-CNN/blob/master/results/video2.png)
 ## Suggestions
-You can put your problems in the issues, we can solve it together.
+You can put your problems in the issues, we can solve it together
+Download the pretrained weights:
+ https://pan.baidu.com/s/13V0n5m9ZU-ocbAks_GJwvw password: qx8f
