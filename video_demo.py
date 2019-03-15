@@ -42,7 +42,7 @@ def cv2_display_keypoint(image,boxes,keypoints,masks,class_ids,scores,class_name
             "shape must match: boxes,keypoints,class_ids, scores"
     colors = visualize.random_colors(N)
     for i in range(N):
-        color = colors[1]
+        color = colors[i]
         # Bounding box
         if not np.any(boxes[i]):
             # Skip this instance. Has no bbox. Likely lost in image cropping.
